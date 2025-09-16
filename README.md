@@ -1,6 +1,5 @@
-### Hi there 👋, Hey, I’m Jisan
+###  Hey, I’m Jisan
 #### Think. Solve. Repeat.
-![Think. Solve. Repeat.]
 
 I am passionate about problem-solving, continuous learning and applying knowledge to create meaningful solutions. I value discipline, curiosity and collaboration and I strive to grow both academically and personally while contributing positively to any team or project I’m part of.
 
