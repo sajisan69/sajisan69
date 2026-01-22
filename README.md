@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Jisan 👋</h1>
-
 <p align="center">
+  Hi, I'm Jisan 👋
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;Love+to+write+clean+code;Learning+by+building+real+projects" alt="Typing SVG" />
 </p>
 
@@ -21,6 +21,7 @@ I’m a goal-oriented **Front-End Web Developer** who loves solving real-world p
 I enjoy continuous learning and sharing knowledge with others. My core technologies include **JavaScript** and **React** for building modern web applications.
 
 ---
+
 ## 👨‍💻 Skills & Technologies
 
 ### Languages
