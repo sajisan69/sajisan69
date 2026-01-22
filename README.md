@@ -22,7 +22,7 @@ I’m a motivated Front-End Web Developer who is always learning and improving e
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="50" height="50"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"><img src="https://worldvectorlogo.com/logo/c-1" alt="c" width="50" height="50"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a>
 </p>
@@ -56,5 +56,3 @@ I’m a motivated Front-End Web Developer who is always learning and improving e
 <a href="https://www.linkedin.com/in/sabbir-ahmed-jisan-895126345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir-ahmed-jisan" height="30" width="40" /></a>
 </p>
 
-## 📧 For Business Inquiries
-**Email:** [sabbirahmedjisan500@gmail.com](mailto:sabbirahmedjisan500@gmail.com)
