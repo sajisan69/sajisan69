@@ -29,19 +29,19 @@ I’m a goal-oriented Front-End Web Developer who loves solving real-world probl
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajisan69&layout=compact)
 ## ☕ Connect with me!
 <a href="https://www.facebook.com/shovoalways">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40"/>
 </a>
 <a href="https://www.instagram.com/shovoalways/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="40"/>
 </a>
 <a href="https://twitter.com/shovoalways">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" height="40"/>
 </a>
 <a href="https://www.youtube.com/@ProcoderBD">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="40"/>
 </a>
 <a href="https://www.linkedin.com/in/sabbir-ahmed-jisan-895126345/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="40"/>
 </a>
 
 ## 📧 For Business Inquiries
