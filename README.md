@@ -27,13 +27,22 @@ I’m a goal-oriented Front-End Web Developer who loves solving real-world probl
 ✅ Python  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajisan69&layout=compact)
-
 ## ☕ Connect with me!
-[<img src='https://github.com/sajisan69/sajisan69/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)
-[<img src='https://github.com/sajisan69/sajisan69/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)
-[<img src='https://github.com/sajisan69/sajisan69/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)
-[<img src='https://github.com/sajisan69/sajisan69/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)
-[<img src='https://github.com/sajisan69/sajisan69/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabbir-ahmed-jisan-895126345/)
+<a href="https://www.facebook.com/shovoalways">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
+</a>
+<a href="https://www.instagram.com/shovoalways/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40"/>
+</a>
+<a href="https://twitter.com/shovoalways">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
+</a>
+<a href="https://www.youtube.com/@ProcoderBD">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/sabbir-ahmed-jisan-895126345/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+</a>
 
 ## 📧 For Business Inquiries
 ✅ **Email:** shovoalways@gmail.com
