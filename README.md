@@ -12,7 +12,7 @@
 <hr/>
 
 ## 🚀 About Me
-I’m a motivated Front-End Web Developer who is always learning and improving every day. I enjoy solving problems, experimenting with new technologies and building real-world projects to sharpen my skills. I focus on practical learning by doing, writing clean code and turning ideas into functional, responsive web applications. I’m passionate about continuous growth, sharing knowledge and taking on challenges that push me to become a better developer.
+<p>I’m a motivated Front-End Web Developer who is always learning and improving every day. I enjoy solving problems, experimenting with new technologies and building real-world projects to sharpen my skills. I focus on practical learning by doing, writing clean code and turning ideas into functional, responsive web applications. I’m passionate about continuous growth, sharing knowledge and taking on challenges that push me to become a better developer. </p>
 ---
 
 ## 👨‍💻 Skills & Technologies
