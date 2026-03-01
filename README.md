@@ -1,7 +1,7 @@
 ![Profile visit badge](https://komarev.com/ghpvc/?username=md-habibullah-99&style=flat-square)
 ## Hi there 👋 I'm @md-Jisan
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Md+Habibullah;Aspiring+Software+Developer;Web+Developer;Problem+Solver;Competitive+Programmer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Md+Jisan;Aspiring+Software+Developer;Web+Developer;Problem+Solver;Competitive+Programmer)
 
 ---
 
@@ -40,33 +40,17 @@
 <div align="center">
   <br>
 
----
   ### 📊 github stats
 
-<!---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-habibullah-99&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="140" />
-  <img src="https://streak-stats.demolab.com?user=md-habibullah-99&theme=github-dark&hide_border=true" height="140" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-habibullah-99&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="140" />
-</p>
---->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/md-habibullah-99?style=flat&label=followers" />
-  <img src="https://img.shields.io/github/stars/md-habibullah-99??style=flat&affiliations=OWNER&label=Stars" />
+  <img src="https://img.shields.io/github/followers/sajisan69?style=flat&label=followers" />
+  <img src="https://img.shields.io/github/stars/sajisan69??style=flat&affiliations=OWNER&label=Stars" />
 </p>
 
 ---
-[![Habibullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Habibullah-99&theme=github-dark&area=true&hide_border=true)](https://github.com/Md-Habibullah-99/github-readme-activity-graph)
+[![Jisan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajisan69&theme=github-dark&area=true&hide_border=true)](https://github.com/sajisa69/github-readme-activity-graph)
 
 💡 Always iterating—feel free to open issues, discuss
-<!---
-md-habibullah-99/md-habibullah-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
